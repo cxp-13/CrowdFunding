@@ -1,4 +1,5 @@
-#origin project address：https://github.com/adrianhajdin/project_crowdfunding
+# origin project address：https://github.com/adrianhajdin/project_crowdfunding
+## smart contract repo : https://github.com/cxp-13/CrowdFunding_smartcontract
 ### main update
 1.  thirdweb update to V4
 2. ...
